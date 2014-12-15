@@ -1,0 +1,23 @@
+{
+  "name": "gr",
+  "version": "0.0.1",
+  "description": "Personal playground for graph-related things",
+  "main": "lib/gr.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darobin/gr.git"
+  },
+  "keywords": [
+    "graph",
+    "network"
+  ],
+  "author": "Robin Berjon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darobin/gr/issues"
+  },
+  "homepage": "https://github.com/darobin/gr"
+}
