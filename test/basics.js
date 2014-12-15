@@ -45,10 +45,11 @@ describe("Basics", function () {
                 .to.throwError(/link vertices twice, graph does not accept multilinks/);
         });
     });
-    // from/toJSON
-    // undirected
-    // dropVertex()
-    // vertices()
-    // degree methods
-    // sumDegrees
+    // XXX
+    //  from/toJSON
+    //  undirected
+    //  dropVertex()
+    //  vertices()
+    //  degree methods
+    //  sumDegrees
 });
